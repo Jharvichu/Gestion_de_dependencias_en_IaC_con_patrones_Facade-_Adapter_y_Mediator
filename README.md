@@ -6,7 +6,7 @@
 - **Código:** 20210184E  
 - **Correo institucional:** jharvy.cadillo.t@uni.pe
 
-# Proyecto Grupal
+# Proyecto del Grupo 8
 
 - **Título del proyecto:** Gestion de dependencias en IaC con patrones Facade Adapter y Mediator (Proyecto 4)
 - **Repositorio grupal:** [https://github.com/Jharvichu/PC3_Grupo8_Proyecto4](https://github.com/Jharvichu/PC3_Grupo8_Proyecto4)
@@ -18,11 +18,11 @@ Durante el primer sprint, realicé el test de `adapter_output.py` del modulo **a
 
 1. **Clona el repositorio grupal:**
    ```bash
-   git clone https://github.com/organizacion/repositorio.git
-   cd repositorio
+   git clone https://github.com/Jharvichu/PC3_Grupo8_Proyecto4.git
+   cd PC3_Grupo8_Proyecto4
    ```
 
-2. **Ejecutamos el setup:**
+2. **Ejecutamos el setup: (en el proyecto completo)**
    ```bash
    # En la raiz del repositorio
    source setup.sh
