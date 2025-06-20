@@ -1,0 +1,1 @@
+Link del video: [Sprint2](https://unipe-my.sharepoint.com/:v:/g/personal/jharvy_cadillo_t_uni_pe/ESahDu_k7FZDhrTxGCpStx4BHW1i8TKFDSxflw4oAxALiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oVMy1t)
